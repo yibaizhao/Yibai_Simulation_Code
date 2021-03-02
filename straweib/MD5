@@ -1,0 +1,16 @@
+d37852f270981719f178105d94d5a8c9 *DESCRIPTION
+8b54e5a89fbda3af5e077053d40bec76 *NAMESPACE
+b154f1822668b02840d64daca726b142 *R/HRatio.R
+0d7153e826d8c65d106abdd89424bdb6 *R/icweib.R
+b3a7d77f266a8258fc81f3767b46a94e *R/plot.icweib.R
+2255d7fb3d3662dbc5e6dd02f783d7d5 *R/print.icweib.R
+bd22c47ebc2c2bfb7e38b1130f23c713 *data/hyper.rda
+e5620be103761748641ddebcf2cce712 *data/simdata.rda
+c8f3e5afd60d10e38fc6a2a132d6136e *data/tooth24.rda
+069a0caf2a9f8ab7537c2b2f9fed58f8 *man/HRatio.Rd
+63afcef73b272f9d439e71df1610980d *man/hyper.Rd
+9d8124c35042b5d23b379876041738bb *man/icweib.Rd
+506135fc9efd71ee2cef52f08614d225 *man/plot.icweib.Rd
+5f722938571eb32ee68db1ac9470ef43 *man/print.icweib.Rd
+e45f0782c56552d257da0f0d624bf9fc *man/simdata.Rd
+a44cc0bfc18972c07858602545c23b85 *man/tooth24.Rd
